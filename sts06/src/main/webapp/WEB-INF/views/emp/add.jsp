@@ -8,7 +8,7 @@
 </head>
 <body>
 	<h1>입력 페이지</h1>
-	<form method="post">
+	<form method="">
 		<div>
 			<label for="name">name</label>
 			<input type="text" name="name" id="name" />
